@@ -23,6 +23,9 @@ int main()
 
 	printf("Result = %f", y);
 
+	//ТУТ ИЗМЕНЕНИЯ
+   	 k = y/2;
+   	 printf("\nNovii result = %f", k);
 
 
 	return 0;
